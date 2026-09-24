@@ -1,0 +1,20 @@
+{
+  "name": "bamba-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Basil 'Bamba' Nwankwo - AI Operator, Certified Business Analyst & Web3 Builder",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "business-analyst",
+    "ai-operator",
+    "vibe-coding",
+    "web3",
+    "telegram-bots"
+  ],
+  "author": "Basil Chinaza Nwankwo",
+  "license": "MIT"
+}
